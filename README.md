@@ -41,3 +41,7 @@ mode = "dump"
 ```
 "port = "后为端口，修改即可。
 "mode = "后为模式，共有web、dump、console三种模式
+
+## QuantumultX js script
+
+`https://raw.githubusercontent.com/Tao0Lu/Arknights_Anti-addiction_Cheater/master/JS-script/ak_anti-addiction_bypass.conf`
