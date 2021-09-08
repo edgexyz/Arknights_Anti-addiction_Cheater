@@ -44,4 +44,6 @@ mode = "dump"
 
 ## QuantumultX js script
 
-`https://raw.githubusercontent.com/Tao0Lu/Arknights_Anti-addiction_Cheater/master/JS-script/ak_anti-addiction_bypass.conf`
+```
+https://raw.githubusercontent.com/Tao0Lu/Arknights_Anti-addiction_Cheater/master/JS-script/ak_anti-addiction_bypass.conf
+```
